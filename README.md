@@ -2,7 +2,7 @@
 
 I'm Ian, a Computer Engineering Student at UBC. 
 
-![LinkedIn](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] in/ian-yj-park
+You can check out my LinkedIn here: in/ian-yj-park
 
 <!--
 **ip3143/ip3143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
